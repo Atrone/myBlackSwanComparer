@@ -1,0 +1,4 @@
+coinmarketcapapi
+pycoingecko
+pymongo
+discord.py
